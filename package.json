@@ -12,13 +12,9 @@
           "type": "git",
           "url": "https://github.com/utilcode/simple-template.git"
     },
-  
-    "dependencies": {
-    },
     "keywords": [
-        "quam",
-        "png",
-        "slippery",
-        "gross",
-  ],
+        "npm",
+        "package",
+        "api-chatfanpagefb"
+      ],
 }
